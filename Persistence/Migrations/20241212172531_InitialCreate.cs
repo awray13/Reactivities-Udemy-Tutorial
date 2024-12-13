@@ -8,6 +8,7 @@ namespace Persistence.Migrations
     public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
+        /// Up migration method
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
@@ -29,6 +30,7 @@ namespace Persistence.Migrations
         }
 
         /// <inheritdoc />
+        /// Down migration method
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(

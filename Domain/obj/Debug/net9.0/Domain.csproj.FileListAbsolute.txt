@@ -9,3 +9,4 @@ C:\Users\admin\source\repos\DotnetReactSandbox\Reactivities\Domain\obj\Debug\net
 C:\Users\admin\source\repos\DotnetReactSandbox\Reactivities\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\Users\admin\source\repos\DotnetReactSandbox\Reactivities\Domain\obj\Debug\net9.0\Domain.pdb
 C:\Users\admin\source\repos\DotnetReactSandbox\Reactivities\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Users\admin\source\repos\DotnetReactSandbox\Reactivities\Domain\obj\Debug\net9.0\Domain.sourcelink.json
